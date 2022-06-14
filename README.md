@@ -1,3 +1,5 @@
-My first JavaScript game!
+## **My first JavaScript game!**
 
-For this game, we are using variables and functions to move a Ninja on our screen.
+From the Introduction to Programming course by HackerHero.
+
+For this game, variables and functions are used to move a Ninja on the screen.
